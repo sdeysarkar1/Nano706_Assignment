@@ -14,9 +14,9 @@
 ## 🖼️ Detection Output
 Below is an example of the **detected image** produced by the YOLOv5 step.
 
-> Path: `face_detection_result.jpg`
+> Path: `face_detection_result.png`
 
 <p align="center">
-  <img src="face_detection_result.jpg" alt="YOLOv5 Detection Result" width="520">
+  <img src="face_detection_result.png" alt="YOLOv5 Detection Result" width="520">
 </p>
 
